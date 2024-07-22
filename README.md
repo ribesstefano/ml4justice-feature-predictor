@@ -42,13 +42,11 @@ To enhance the system's efficacy, future work should focus on improving the mode
 If you use this work in your research, please cite the following paper:
 
 ```
-@misc{ribes2024modeling,
-    title={Modeling PROTAC Degradation Activity with Machine Learning},
-    author={Stefano Ribes and Eva Nittinger and Christian Tyrchan and Rocío Mercado},
-    year={2024},
-    eprint={2406.02637},
-    archivePrefix={arXiv},
-    primaryClass={q-bio.QM}
+@inproceedings{opening,
+  title={Opening the Black Box: How Boolean AI can Support Legal Analysis},
+  author={G. Garzo and S. Ribes and \textbf{A. Palumbo}},
+  booktitle={2024 IEEE 4th International Conference on Computer Communication and Artificial Intelligence (CCAI)},
+  year={2024}
 }
 ```
 
