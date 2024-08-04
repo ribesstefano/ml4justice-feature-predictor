@@ -42,12 +42,16 @@ To enhance the system's efficacy, future work should focus on improving the mode
 If you use this work in your research, please cite the following paper:
 
 ```
-@inproceedings{opening,
-  title={Opening the Black Box: How Boolean AI can Support Legal Analysis},
-  author={G. Garzo and S. Ribes and \textbf{A. Palumbo}},
-  booktitle={2024 IEEE 4th International Conference on Computer Communication and Artificial Intelligence (CCAI)},
-  year={2024}
-}
+@INPROCEEDINGS{10603017,
+  author={Garzo, Grazia and Ribes, Stefano and Palumbo, Alessandro},
+  booktitle={2024 4th International Conference on Computer Communication and Artificial Intelligence (CCAI)}, 
+  title={Opening the Black Box: How Boolean AI can Support Legal Analysis}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={269-272},
+  keywords={Analytical models;Accuracy;Boolean functions;Law;Roads;Decision making;Machine learning;Machine Learning;Decision Making;Boolean AI},
+  doi={10.1109/CCAI61966.2024.10603017}}
 ```
 
 ## 📜 License
